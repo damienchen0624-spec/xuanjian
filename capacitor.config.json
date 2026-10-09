@@ -1,0 +1,6 @@
+{
+  "appId": "com.xuanjian.app",
+  "appName": "玄鉴",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
